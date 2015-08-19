@@ -1,4 +1,4 @@
-# R language
+# R
 # You should be able to copy and paste these lines with some minor editing where noted.
 # Anything after the "#" will not be read by R
 
